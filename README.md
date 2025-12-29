@@ -8,11 +8,11 @@ I enjoy building small projects and learning how things work behind the scenes.
 - Learning programming fundamentals
 
 ### 🧪 Past Exposure
-- 🌐 Django (worked with it earlier while learning web development)
+- Django (worked with it earlier while learning web development)
 
 ### 🌱 Also Exploring
-- 🌐 Web development basics
-- 🤖 Introduction to machine learning concepts
+- Web development basics
+- Introduction to machine learning concepts
 
 ### 🛠️ Tools
 - Unity
