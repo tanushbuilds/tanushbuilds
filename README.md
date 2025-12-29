@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm Tanush
 
-<!--
-**tanushbuilds/tanushbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 14 and currently learning **Game Development** 🎮  
+I enjoy building small projects and learning how things work behind the scenes.
 
-Here are some ideas to get you started:
+### 🎮 Main Focus
+- Game development with Unity & C#
+- Learning programming fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Past Exposure
+- 🌐 Django (worked with it earlier while learning web development)
+
+### 🌱 Also Exploring
+- 🌐 Web development basics
+- 🤖 Introduction to machine learning concepts
+
+### 🛠️ Tools
+- Unity
+- C#
+- Git & GitHub
+
+### 🏃 Outside Tech
+- 🎾 Playing tennis
+
+---
+📌 Always learning and improving step by step.
