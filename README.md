@@ -20,7 +20,7 @@ I enjoy building small projects and learning how things work behind the scenes.
 - Git & GitHub
 
 ### Outside Tech
-- 🎾 Playing tennis
+- Playing tennis
 
 ---
 Always learning and improving step by step.
