@@ -22,5 +22,4 @@ I enjoy building small projects and learning how things work behind the scenes.
 ### Outside Tech
 - Playing tennis
 
----
 Always learning and improving step by step.
