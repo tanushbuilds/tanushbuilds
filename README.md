@@ -4,7 +4,7 @@ I'm 14 and currently learning **Game Development**
 I enjoy building small projects and learning how things work behind the scenes.
 
 #### Main Focus
-- Game development with Unity & C#
+Game development with Unity & C#
 
 #### Past Exposure
 - Django (worked with it earlier while learning web development)
