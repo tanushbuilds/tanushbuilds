@@ -2,15 +2,15 @@
 
 I'm 14 and learning **Game Development**, focusing on **Unity and C#**.  
 
-Currently building a **psychological horror game** to apply design, mechanics, and problem-solving skills.  
+Currently building a **Psychological Horror game** to apply design, mechanics, and problem-solving skills.  
 
 Experienced with **Django**, with a foundation in backend development, and exploring **introductory machine learning concepts**.  
 
 ### Tools I use:
 
-- Unity
-- C#
-- Git
-- GitHub  
+* Unity
+* C#
+* Git
+* GitHub  
 
-Outside tech, I play **tennis**, which keeps me disciplined and focused.
+Outside tech, I play **Tennis**, which keeps me disciplined and focused.
