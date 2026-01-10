@@ -1,34 +1,25 @@
-### 👋 Hey there!
+### Hey there!👋 
 
-I'm a **14-year-old** student who enjoys learning how things work behind the scenes 💡  
-I love building small projects and improving step by step 🚀
+I'm 14 and currently learning **Game Development**  
+I enjoy building small projects and learning how things work behind the scenes.
 
-If something sparks my curiosity, chances are I’ll try to build it and learn from it 🎮🧠
+### Main Focus
+- Game development with Unity & C#
+- Learning programming fundamentals
 
-🔧 Main Focus
+### Past Exposure
+- Django (worked with it earlier while learning web development)
 
-- 🎮 Game development using **Unity & C#**
-- 💻 Learning **programming fundamentals**
+### Also Exploring
+- Web development basics
+- Introduction to machine learning concepts
 
-📚 Past Exposure
-
-- 🌐 Worked with **Django** while learning web development
-
-🌱 Also Exploring
-
-- 🕸️ Web development basics  
-- 🤖 Introduction to **machine learning concepts**
-
-
-🛠️ Tools I Use
-
+### Tools
 - Unity
 - C#
 - Git & GitHub
 
+### Outside Tech
+- Playing tennis
 
-🎾 Outside Tech
-
-- Playing **tennis**
-
-Always learning and improving, one step at a time ✨
+Always learning and improving step by step..
