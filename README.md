@@ -1,9 +1,13 @@
 ### Hey there! 👋
 
-I'm 14 and currently learning **Game Development** 🎮. I enjoy building small projects and understanding how things work behind the scenes, especially when it comes to game mechanics and programming fundamentals.
+I'm 14 and currently focused on learning **Game Development**. I work on small projects to develop a deeper understanding of game mechanics and core programming concepts.
 
-My main focus is game development using **Unity and C#**, where I spend time experimenting, learning, and improving step by step. In the past, I’ve also worked with **Django** while exploring web development, which helped me understand backend concepts and structured programming.
+My primary focus is game development using **Unity and C#**, where I consistently experiment, learn, and improve through hands-on practice. 
 
-Alongside game development, I’m currently exploring **introductory machine learning concepts** and expanding my general technical knowledge. I mainly work with **Unity, C#, and Git & GitHub** to manage and build my projects.
+I am also currently building a **psychological horror game**, which allows me to apply design principles, gameplay mechanics, and technical problem-solving in a practical project. 
 
-Outside of tech, I enjoy playing **tennis**, which helps me stay active and balanced.
+Previously, I worked with **Django** during my exploration of web development, which helped build a foundation in backend development and structured programming.
+
+In addition to game development, I am exploring **introductory machine learning concepts** to broaden my technical knowledge. I primarily use **Unity, C#, and Git & GitHub** for building and managing projects.
+
+Outside of technology, I play **tennis**, which helps maintain discipline, focus, and balance.
