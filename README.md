@@ -1,4 +1,4 @@
-##👋 Hey there! 😄
+###👋 Hey there!
 
 I'm a **14-year-old** student who enjoys learning how things work behind the scenes 💡  
 I love building small projects and improving step by step 🚀
