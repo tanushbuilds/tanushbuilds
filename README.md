@@ -29,15 +29,4 @@
 
 ---
 
-### Featured Projects
-
-| Project | What it is |
-|---|---|
-| [agentic-researcher](https://github.com/tanushbuilds/agentic-researcher) | Local AI research agent — searches, decides, writes reports |
-| [project-dread](https://github.com/tanushbuilds/project-dread) | Psychological horror game in Unity |
-| [smart-study-planner](https://github.com/tanushbuilds/smart-study-planner) | AI-powered study planner in Python |
-| [fps-controller](https://github.com/tanushbuilds/fps-controller) | Reusable FPS controller for Unity |
-
----
-
 <sub>14 years old. Building anyway.</sub>
