@@ -1,6 +1,6 @@
-### Hi, I'm Tanush
+### Hi, I'm Tanush 👋
 
-<p color="grey">14 year old developer. I build agentic AI systems and games.</p>
+<sub>14 year old developer from India. I build agentic AI systems and games.</sub>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
