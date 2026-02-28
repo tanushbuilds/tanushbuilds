@@ -1,6 +1,6 @@
 <div align="center">
 
-# TANUSH
+<h1 font-size=34px>TANUSH</h1>
 
 14 year old from India building agentic AI systems and games
 
